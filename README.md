@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/96/12/f4/9612f4625d30bc1230e79147eb8639f7.gif" width="100%" height="200" alt="Cyberpunk Anime Header" style="border-radius: 15px; margin-bottom: 15px;" />
+<img src="https://i.pinimg.com/originals/96/12/f4/9612f4625d30bc1230e79147eb8639f7.gif" width="100%" height="200" alt="Cyberpunk Anime Header" style="border-radius: 15px; margin-bottom: 15px; object-fit: cover;" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF70A6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Kimiloo+!+%F0%9F%91%BE;Master+of+Programming+%26+AI+Code;Vibe+Coding+Specialist+%E2%9A%A1;Cute+but+Dangerous+%F0%9F%92%9C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF70A6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Kimiloo+!+%F0%9F%91%BE;Master+Programmer+%E2%9A%A1;AI+Code+Architect+%F0%9F%A4%96;Vibe+Coding+Specialist+%E2%9C%A8;Cute+but+Dangerous+%F0%9F%92%9C" alt="Typing SVG" />
 
 <br><br>
 </div>
@@ -16,7 +16,7 @@
       <ul>
         <li>🧠 <b>Class:</b> Master Programmer & AI Code Architect</li>
         <li>🩸 <b>Mana:</b> Powered by iced coffee and chaos energy</li>
-        <li>⚔️ <b>Current Quest:</b> Writing high-fidelity AI algorithms & building the future</li>
+        <li>⚔️ <b>Current Quest:</b> Vibe coding high-fidelity AI algorithms & building the future</li>
         <li>🎀 <b>Vibe:</b> Cute on the outside, ruthless logic on the inside.</li>
       </ul>
       <p><i>"I don't just write code, I vibe with the matrix."</i></p>
@@ -53,7 +53,7 @@
 
 <br>
 
-### 🐍 <code>Contribution Graph</code>
+### 🐍 <code>Contribution Grid Snake</code>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kimilooo/kimilooo/output/github-contribution-grid-snake-dark.svg">
