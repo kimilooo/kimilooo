@@ -19,8 +19,8 @@
 <td>
 
 🧠 28 y/o AI coder
-☕ coding at midnight
-🎀 mixing cute + logic
+☕ midnight coding mode
+🎀 cute outside, logic inside
 🧃 overthinking ideas
 
 </td>
@@ -34,35 +34,15 @@
 
 ---
 
-### 🧸 tools i use
+### 🧸 tools
 
-<table align="center">
-<tr>
-<td align="center">🐍 Python</td>
-<td align="center">⚡ Kotlin</td>
-<td align="center">🧠 OpenAI</td>
-<td align="center">🎨 Figma</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="40"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=kotlin" width="40"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=ai" width="40"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=figma" width="40"/>
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,kotlin,js,figma" />
+</p>
 
 ---
 
-### 🍓 workflow (simple but real)
+### 🍓 workflow
 
 ```bash
 idea → prompt → test → break → fix → repeat ♡
@@ -73,8 +53,8 @@ idea → prompt → test → break → fix → repeat ♡
 ### 🎀 stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kimilooo&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kimilooo&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=kimilooo&show_icons=true&theme=radical&hide_border=true&v=1" width="48%" />
+<img src="https://streak-stats.demolab.com?user=kimilooo&theme=radical&hide_border=true&v=1" width="48%" />
 </p>
 
 ---
@@ -85,6 +65,6 @@ idea → prompt → test → break → fix → repeat ♡
 
 <br>
 
-<i>“tiny code, big chaos 💜”</i>
+<i>tiny code, big chaos 💜</i>
 
 </div>
