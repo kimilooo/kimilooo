@@ -1,55 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a001f,100:3d0066&height=200&section=header&text=Kimi.codes&fontColor=ffccff&fontSize=40&animation=fadeIn" />
+<!-- Glowing Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Kimiloo's%20Cyber%20Den&fontColor=F770BA&fontSize=50&animation=twinkling&desc=AI%20Coder%20//%20Chaos%20Architect&descAlignY=70&descAlign=62" width="100%"/>
 
-<br>
+<!-- Pro Typing Effect -->
+<a href="https://github.com/kimilooo">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF99FF&center=true&vCenter=true&random=false&width=600&lines=>_++System.out.println(%22Hello,+World!%22);>_++Training+neural+networks+in+the+dark...;>_++Cute+but+lethal+with+code+%E2%9A%94%EF%B8%8F;>_++Building+the+future+with+AI+%F0%9F%A4%96" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=22&pause=1000&color=FFB6FF&center=true&vCenter=true&width=500&lines=AI+Coder+%F0%9F%91%BE;Prompt+Engineer+%F0%9F%94%AE;Cute+but+dangerous+%F0%9F%92%9C" />
+<br><br>
 
-</div>
-
----
-
-### 🧸 about me
-
-<table>
-<tr>
-<td>
-
-🧠 AI coder with chaos energy
-☕ coding at midnight
-🎀 cute outside, logic inside
-
-</td>
-<td>
-
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/cute-anime.gif" width="120"/>
-
-</td>
-</tr>
+<!-- About & Visuals in a clean grid -->
+<table align="center" border="0" cellpadding="15">
+  <tr>
+    <td align="center" width="50%">
+        <h2 align="center"> 👾 About The Creator </h2>
+        <p align="center">
+        <code><b>AI Coder & Prompt Engineer</b></code><br>
+        <i>Transforming caffeine into chaotic algorithms.</i><br><br>
+        🌌 <b>Current Status:</b> Coding at midnight<br>
+        🔮 <b>Vibe:</b> Cute outside, logic inside<br>
+        ⚡ <b>Energy:</b> 100% Chaos & Creativity<br>
+        </p>
+    </td>
+    <td align="center" width="50%">
+        <!-- A higher quality, aesthetic anime hacking/coding gif -->
+        <img src="https://i.pinimg.com/originals/a4/df/80/a4df80a96ea5b9ebbb9b4ed20f2dbbc7.gif" width="240" style="border-radius: 15px;"/>
+    </td>
+  </tr>
 </table>
 
----
+<br><br>
 
-### 🍡 tools
-
+<!-- Tech Stack -->
+<h2 align="center"> 🛠️ Tech Arsenal </h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,kotlin,js,figma" />
+  <a href="https://skillicons.dev">
+    <!-- Added a few more relevant icons, you can remove what you don't use -->
+    <img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java,cpp,react,figma,tensorflow,docker,git,linux&perline=6" />
+  </a>
 </p>
 
----
+<br><br>
 
-### 🎀 stats
+<!-- Advanced Stats Section -->
+<h2 align="center"> 📊 GitHub Analytics </h2>
+<table align="center" border="0" cellpadding="10">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=kimilooo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F770BA&icon_color=70A5FD&text_color=ffffff" alt="Stats" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=kimilooo&theme=tokyonight&hide_border=true&background=00000000&ring=F770BA&fire=F770BA&currStreakLabel=70A5FD" alt="Streak" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <!-- Added a Top Languages Card for extra flex -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimilooo&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F770BA" alt="Top Languages" width="400"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kimilooo&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d12&title_color=ffccff&text_color=ffffff&icon_color=ff99ff" width="48%" />
-<img src="https://streak-stats.demolab.com?user=kimilooo&theme=radical&hide_border=true&background=0D0D12&ring=ff99ff&fire=ff99ff" width="48%" />
-</p>
+<br><br>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0066,100:1a001f&height=120&section=footer"/>
-
+<!-- Sleek Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
 </div>
