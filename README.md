@@ -1,91 +1,61 @@
 <div align="center">
 
-<!-- هدر متحرک دارک و بنفش خیلی خفن -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=2,12,28,30&height=250&section=header&text=Kimi%20(kimilooo)&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=b392f0&desc=AI%20Coder%20%7C%20Content%20Creator&descAlignY=55&descSize=20" width="100%"/>
+<!-- بنر گرافیکی اصلی (گیف انیمه‌ای دارک و بنفش) -->
+<img src="https://i.pinimg.com/originals/d9/82/f4/d982f45cc368e747d2f9543e5c9bceb6.gif" width="100%" height="250" style="object-fit: cover; border-radius: 15px;" />
 
-<!-- افکت تایپ متحرک با تم دارک و فونت درخشان بنفش -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=B388FF&center=true&vCenter=true&width=500&lines=28+Y%2FO+Tech+Witch+🦇;AI+%26+Generative+Code+👾;Crafting+Content+%26+Magic+🌌;Dark+Mode+Everything+💜" alt="Typing SVG" />
-</a>
+<br><br>
 
-<br/>
-<img src="https://media.giphy.com/media/hSjE9bF3Jb2n0m8B7D/giphy.gif" width="120" alt="Cute Dark Pixel Cat" />
-<br/>
+<h1 align="center">✦ 𝗞𝗶𝗺𝗶'𝘀 𝗔𝗲𝘀𝘁𝗵𝗲𝘁𝗶𝗰 𝗩𝗼𝗶𝗱 ✦</h1>
 
-*Turning caffeine and midnight inspiration into intelligent systems and aesthetic content.* 🔮✨
+<!-- افکت تایپ با فونت خاص و رنگ بنفش پاستلی -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=24&pause=1000&color=B388FF&center=true&vCenter=true&width=600&lines=28+Y%2FO+AI+Coder+👾;Content+Creator+🎥;Dark+Purple+Aesthetic+💜;Crafting+Digital+Magic+🌌" alt="Typing SVG" />
+
+<p align="center">
+  <em>Weaving lines of code into art, powered by AI & midnight vibes. 🌙☕</em>
+</p>
 
 </div>
 
 ---
 
-### 🌌 𝗜𝗻𝘁𝗼 𝗧𝗵𝗲 𝗩𝗼𝗶𝗱 (𝗔𝗯𝗼𝘂𝘁 𝗠𝗲)
-
-```kotlin
-val Kimi = Developer(
-    role = "AI Coder & Content Creator",
-    age = 28,
-    passions = listOf("Generative AI", "Network Tuning", "Tech Storytelling"),
-    aesthetic = "Dark Mode & Neon Purple",
-    status = "Building tools that feel like magic ✨"
-)
-```
-
-- 🔮 **Focus:** Engineering Prompts, tuning networks (DNS/VPNs), and writing scripts that automate the boring stuff.
-- 📹 **Creator:** Transforming complex AI concepts into cute, digestible, and aesthetic digital content.
-- 🦇 **Vibe:** Midnight coding sessions, lofi beats, and terminal windows glowing in purple.
-
----
-
-### 👾 𝗠𝘆 𝗔𝗿𝘀𝗲𝗻𝗮𝗹 (𝗧𝗲𝗰𝗵 & 𝗧𝗼𝗼𝗹𝘀)
-
 <div align="center">
-  <!-- آیکون‌های خفن با تم دارک/بنفش -->
-  <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=b392f0" />
-  <img src="https://img.shields.io/badge/Kotlin-141414?style=for-the-badge&logo=kotlin&logoColor=b392f0" />
-  <img src="https://img.shields.io/badge/OpenAI-141414?style=for-the-badge&logo=openai&logoColor=b392f0" />
-  <img src="https://img.shields.io/badge/TensorFlow-141414?style=for-the-badge&logo=tensorflow&logoColor=b392f0" />
-  <img src="https://img.shields.io/badge/PyTorch-141414?style=for-the-badge&logo=pytorch&logoColor=b392f0" />
-  <br/>
-  <img src="https://img.shields.io/badge/Premiere_Pro-141414?style=for-the-badge&logo=adobe-premiere-pro&logoColor=b392f0" />
-  <img src="https://img.shields.io/badge/Android_Studio-141414?style=for-the-badge&logo=android-studio&logoColor=b392f0" />
-  <img src="https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=b392f0" />
-</div>
-
----
-
-### 🔮 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝗼𝗿𝗰𝗲𝗿𝘆 (𝗦𝘁𝗮𝘁𝘀)
-
-<div align="center">
-  <!-- تروفی‌های گیت‌هاب با تم دارک -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kimilooo&theme=radical&row=1&column=5&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
-  </a>
-</div>
-<br/>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <!-- نمودار فعالیت با تم دارک و بنفش (tokyonight) -->
-        <img src="https://github-readme-stats.vercel.app/api?username=kimilooo&show_icons=true&theme=tokyonight&hide_border=true&title_color=b392f0&icon_color=b392f0&text_color=a9b1d6&bg_color=1a1b26" width="400px" />
-      </td>
-      <td>
-        <!-- زبان‌های استفاده شده -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimilooo&layout=compact&theme=tokyonight&hide_border=true&title_color=b392f0&text_color=a9b1d6&bg_color=1a1b26" width="300px" />
-      </td>
-    </tr>
-  </table>
   
-  <br/>
-  <!-- نمودار استریک (روزهای پشت سر هم کدنویسی) با تم بنفش نئونی -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimilooo&theme=tokyonight&hide_border=true&fire=b392f0&ring=b392f0&sideNums=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6&currStreakNum=b392f0" width="100%" />
-</div>
+### ✧ 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲 ✧
+I'm a 28-year-old **AI Developer** & **Content Creator** who loves blending complex technology with beautiful, dark aesthetics. My digital space is all about deep purples, glowing neon, and smart algorithms. 
+
+🔮 **Vibe:** Lofi beats, midnight coding, dark mode everything.<br>
+🦋 **Focus:** Generative AI, Prompt Engineering, & Visual Storytelling.<br>
+👾 **Mission:** Making AI cute, accessible, and highly aesthetic.
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-  <br/>
-  <i>"She creates her own universe, line by line."</i> 💜🦇
+### ✧ 𝗠𝘆 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗣𝗮𝗹𝗲𝘁𝘁𝗲 ✧
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-0D0D12?style=for-the-badge&logo=python&logoColor=B388FF" />
+<img src="https://img.shields.io/badge/Kotlin-0D0D12?style=for-the-badge&logo=kotlin&logoColor=B388FF" />
+<img src="https://img.shields.io/badge/OpenAI-0D0D12?style=for-the-badge&logo=openai&logoColor=B388FF" />
+<br>
+<img src="https://img.shields.io/badge/Premiere_Pro-0D0D12?style=for-the-badge&logo=adobe-premiere-pro&logoColor=B388FF" />
+<img src="https://img.shields.io/badge/Photoshop-0D0D12?style=for-the-badge&logo=adobe-photoshop&logoColor=B388FF" />
+<img src="https://img.shields.io/badge/Figma-0D0D12?style=for-the-badge&logo=figma&logoColor=B388FF" />
+
+---
+
+### ✧ 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗲𝘀𝘁𝗵𝗲𝘁𝗶𝗰𝘀 ✧
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kimilooo&show_icons=true&theme=synthwave&hide_border=true&title_color=B388FF&icon_color=B388FF&text_color=ffffff&bg_color=0D0D12" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kimilooo&theme=synthwave&hide_border=true&fire=B388FF&ring=B388FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=B388FF&bg_color=0D0D12" width="48%" />
+
+<br><br><br>
+
+<!-- گیف کیوت پایانی -->
+<img src="https://i.pinimg.com/originals/14/c1/bb/14c1bb2511484ce9bc38cd22501a1d95.gif" width="180" style="border-radius: 15px;" />
+
+<br><br>
+<i>"Code is my canvas, AI is my brush." 💜</i>
+
 </div>
