@@ -1,67 +1,93 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/96/12/f4/9612f4625d30bc1230e79147eb8639f7.gif" width="100%" height="200" alt="Cyberpunk Anime Header" style="border-radius: 15px; margin-bottom: 15px; object-fit: cover;" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF70A6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Kimiloo+!+%F0%9F%91%BE;Master+Programmer+%E2%9A%A1;AI+Code+Architect+%F0%9F%A4%96;Vibe+Coding+Specialist+%E2%9C%A8;Cute+but+Dangerous+%F0%9F%92%9C" alt="Typing SVG" />
-
-<br><br>
-</div>
-
-### 🔮 <code>About Entity: Kimiloo</code>
-
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="60%" style="border: none;">
-      <p><b>System Status:</b> 🟢 <i>Online & Vibe Coding</i></p>
-      <ul>
-        <li>🧠 <b>Class:</b> Master Programmer & AI Code Architect</li>
-        <li>🩸 <b>Mana:</b> Powered by iced coffee and chaos energy</li>
-        <li>⚔️ <b>Current Quest:</b> Vibe coding high-fidelity AI algorithms & building the future</li>
-        <li>🎀 <b>Vibe:</b> Cute on the outside, ruthless logic on the inside.</li>
-      </ul>
-      <p><i>"I don't just write code, I vibe with the matrix."</i></p>
-    </td>
-    <td width="40%" align="center" style="border: none;">
-      <img src="https://i.pinimg.com/originals/a1/3e/20/a13e20063dbab8de2cf9d6ebdd346296.gif" width="200" style="border-radius: 15px;" alt="Anime Hacker Girl" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  
-### 💻 <code>Arsenal & Tech Stack</code>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,unity&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=figma,pytorch,tensorflow,docker,git,linux&theme=dark" />
-</p>
-
-<br>
-
-### 📊 <code>GitHub Analytics</code>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimilooo&show_icons=true&bg_color=0D0D12&title_color=FF70A6&text_color=A0A0B0&icon_color=C77DFF&border_color=2D2D44&border_radius=10" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=kimilooo&background=0D0D12&ring=FF70A6&fire=C77DFF&currStreakNum=A0A0B0&sideNums=A0A0B0&sideLabels=A0A0B0&dates=A0A0B0&border=2D2D44&border_radius=10" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimilooo&layout=compact&bg_color=0D0D12&title_color=FF70A6&text_color=A0A0B0&border_color=2D2D44&border_radius=10" width="60%" />
-</p>
-
-<br>
-
-### 🐍 <code>Contribution Grid Snake</code>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kimilooo/kimilooo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kimilooo/kimilooo/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kimilooo/kimilooo/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/cinema-intro-still.png">
+  <img src="assets/cinema-intro.gif" width="100%" alt="A cherry-pink film countdown welcoming you to Kimiloo's little cinema.">
 </picture>
 
+<br>
+
+<img src="assets/sakura-poster.jpg" width="100%" alt="Kimiloo — AI, Art, Code. An original cherry-blossom cinema poster with a fictional adult illustrated muse, rose lights and black satin.">
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/casting-still.png">
+  <img src="assets/casting.gif" width="100%" alt="AI filmmaker. Creative builder. Web3 storyteller.">
+</picture>
+
+<a href="https://x.com/Kimilooweb3"><img src="assets/link-x.svg" width="240" alt="Say hi on X: @Kimilooweb3"></a>
+<a href="https://github.com/kimilooo?tab=repositories"><img src="assets/link-work.svg" width="240" alt="Browse my open-source projects"></a>
+<a href="https://github.com/kimilooo/paybox-lens"><img src="assets/link-lens.svg" width="240" alt="Open PayBox Lens"></a>
+
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=C77DFF&center=true&vCenter=true&width=400&lines=End+of+transmission...;See+you+in+the+matrix+%E2%9C%A8" alt="Footer Typing SVG" />
+### 🌸 ACT I · MEET THE CREATOR
+
+**Hey, I'm Kimiloo.**
+
+I make AI films, explore Web3, and turn ideas into things you can actually use.<br>
+Sometimes it's a cinematic story. Sometimes it's a dashboard.<br>
+Usually, there's a little pink in the plot.
+
+**Soft petals. Sharp ideas.**
+
+<br>
+
+### 🎞️ ACT II · NOW SHOWING
+
+<a href="https://github.com/kimilooo/paybox-lens">
+  <img src="assets/paybox-lens.svg" width="100%" alt="Featured project: PayBox Lens — an independent, open-source financial dashboard with local SQLite and privacy controls.">
+</a>
+
+An independent financial dashboard for PayBox.<br>
+Local SQLite, wallet activity, reports and privacy controls.
+
+[Explore the source](https://github.com/kimilooo/paybox-lens) ·
+[See the screenshots](https://github.com/kimilooo/paybox-lens#screenshots) ·
+[Report a bug](https://github.com/kimilooo/paybox-lens/issues/new?template=bug_report.yml)
+
+<a href="https://github.com/kimilooo/electonet">
+  <img src="assets/electonet.svg" width="100%" alt="Featured project: Electonet — a modern server monitoring dashboard with Matrix management and SSH architecture.">
+</a>
+
+Server monitoring, Matrix management and an SSH-based architecture.
+
+[Explore Electonet](https://github.com/kimilooo/electonet) ·
+[Browse the full collection](https://github.com/kimilooo?tab=repositories)
+
+<br>
+
+### 🎀 ACT III · BEHIND THE SCENES
+
+**The stories:** AI video · digital art · Web3 · creative experiments<br>
+**The builds:** useful dashboards · small tools · open-source projects<br>
+**The workflow:** Codex · Claude · VS Code · Higgsfield · ImagineArt · Remotion
+
+<br>
+
+<details>
+<summary><b>🎟️ Open the director's notes</b></summary>
+
+<br>
+
+I share what I build, what I learn, and what actually works.<br>
+Bug reports, thoughtful feedback and pull requests are welcome.<br>
+Have a creative project in mind? Find me on [X](https://x.com/Kimilooweb3).
+
+<br>
+
+This little cinema uses original artwork and self-hosted motion graphics.<br>
+The illustrated character is fictional; this is a creative identity, not a photograph.<br>
+[Artwork and animation notes](DESIGN.md)
+
+</details>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/end-credits-still.png">
+  <img src="assets/end-credits.gif" width="100%" alt="Falling sakura petals: Meet me where the ideas bloom. Made with curiosity, code and a little drama.">
+</picture>
+
+<sub>WRITTEN, DIRECTED & BUILT BY <b>KIMILOO</b> · THANKS FOR WATCHING ♡</sub>
+
 </div>

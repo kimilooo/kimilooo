@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="72" viewBox="0 0 280 72" role="img" aria-label="Say hi on X">
+<rect x="1" y="1" width="278" height="70" rx="14" fill="#211421" stroke="#8a5671"/>
+<path d="M21 36 L25 29 L29 36 L25 43Z" fill="#edb1c8"/>
+<text x="43" y="30" fill="#f9e9ed" font-family="Arial,sans-serif" font-size="16">Say hi on X</text>
+<text x="43" y="51" fill="#ba92a8" font-family="monospace" font-size="10" letter-spacing="1">@KIMILOOWEB3</text>
+<path d="M245 28 L253 36 L245 44" fill="none" stroke="#edb1c8" stroke-width="1.5"/>
+</svg>
